@@ -1,3 +1,3 @@
-Right click to add and remove objects
+Right button to add and remove objects
 
 Hold left button to drag the rays source
